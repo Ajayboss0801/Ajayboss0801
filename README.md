@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="coding"width="350" src="https://media0.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e478s1vekf9zz8l11y6zs4rp1h0pmpf89ivgb6deaox&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding"width="325" src="https://media0.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e478s1vekf9zz8l11y6zs4rp1h0pmpf89ivgb6deaox&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayboss0801&label=Profile%20views&color=0e75b6&style=flat" alt="ajayboss0801" /> </p>
 
 - 🌱 I have completed **Data Science Masters Program**
